@@ -1,4 +1,4 @@
-TicketClass,Name,Sex,Age,amountOfSiblingOrSpousesOnBoard,amountOfParentsOrChildrenOnBoard,Fare,Embarked,Survived
+TicketClass,Name,Sex,Age,amountOfSiblingAndSpousesOnBoard,amountOfParentsAndChildrenOnBoard,Fare,Embarked,Survived
 3,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,1,15.2458,Cherbourg,1
 2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,10.5,Southampton,0
 3,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,7.925,Southampton,0
