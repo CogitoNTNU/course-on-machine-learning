@@ -8,7 +8,8 @@ Beyond the core content, the course provides additional insights into:
 
 
 ## Prerequisites
-* Basic programming knowledge (Python recommended).
+* Ensure that git is installed on your machine. [Download Git](https://git-scm.com/downloads).
+* Basic programming knowledge (Python recommended) [Download Python](https://www.python.org/downloads/).
 * Familiarity with Jupyter Notebooks.
 
 ## How to Use This Notebook
