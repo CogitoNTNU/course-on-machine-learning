@@ -1,4 +1,4 @@
-TicketClass,Name,Sex,Age,amountOfSiblingAndSpousesOnBoard,amountOfParentsAndChildrenOnBoard,Fare,Embarked,Survived
+TicketClass,Name,Sex,Age,SiblingAndSpousesOnBoard,ParentsAndChildrenOnBoard,Fare,Embarked,Survived
 1,"Partner, Mr. Austen",male,45.5,0,0,28.5,Southampton,0
 2,"Berriman, Mr. William John",male,23.0,0,0,13.0,Southampton,0
 3,"Tikkanen, Mr. Juho",male,32.0,0,0,7.925,Southampton,0
