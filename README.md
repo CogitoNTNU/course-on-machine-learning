@@ -12,6 +12,17 @@ Beyond the core content, the course provides additional insights into:
 * Basic programming knowledge (Python recommended) [Download Python](https://www.python.org/downloads/).
 * Familiarity with Jupyter Notebooks.
 
+## Setup
+1. Clone the repository.
+```bash
+git clone https://github.com/CogitoNTNU/course-on-machine-learning.git
+```
+2. Install juptyer notebook
+```bash
+pip install ipykernel -U --user
+```
+3. Team leads should join Kaggle and create a team. [Join Kaggle Competition](https://www.kaggle.com/t/67df65cd5c6448d8845bde6666511def)
+
 ## How to Use This Notebook
 Follow the parts in order, completing tasks and exercises as you go.
 Experiment with the code cells to reinforce your learning.
