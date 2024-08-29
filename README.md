@@ -1,10 +1,9 @@
 # Course on Machine Learning 
-
-
-## What You Will Learn
- 
-## Extras
-Beyond the core content, the course provides additional insights into:
+In this hands-on workshop, participants will learn the fundamentals of machine learning through practical experience with the Titanic dataset. By the end of the session, you will be able to:
+* Understand the basic concepts of machine learning.
+* Apply machine learning algorithms to real-world data.
+* Evaluate the performance of machine learning models.
+* Collaborate with a team to solve machine learning problems.
 
 
 ## Prerequisites
