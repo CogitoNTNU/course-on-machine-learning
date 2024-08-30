@@ -28,7 +28,15 @@ Experiment with the code cells to reinforce your learning.
 Refer to the "Extras" section for additional tools and techniques beyond the course scope.
 Happy learning!
 
-## Contributors
+# Competition
+The [Leaderboard](https://www.kaggle.com/competitions/cogito-ntnu-titanic-dataset) shows the final results of the competition.
+
+## Credits
+This workshop is based on the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition on Kaggle. 
+
+Many thanks to our amazing CEO [Olav Selnes Lorentzen](https://github.com/olavsl) and our talented [Ksenia Mordovets](https://github.com/ceshew) for their contributions to this workshop and making the presentation slides so beautiful. Thanks to Professor Zhirong Yang and Ryutaro Tanno insights.
+
+## Creator
 <table align="center">
     <td align="center">
         <a href="https://github.com/SverreNystad">
